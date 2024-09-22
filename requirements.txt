@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-core>=0.2.26
+langchain-chroma
+langchain-community
+azure-identity
+ipykernel
+azure-search-documents==11.4.0b6
